@@ -7,4 +7,3 @@ API web application providing Zattoo TV streams
 
 ### Downloads
 - https://github.com/sunsettrack4/telerising-api/releases
-- https://hidrive.ionos.com/share/jtw7nd.9k4#$/
